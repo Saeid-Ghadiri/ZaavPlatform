@@ -1,6 +1,11 @@
-# Zaavosh Platform
+# Zaavosh Platform - System Architecture Document
 
-**Zaavosh Platform** یک پروژه **Marketplace چندفروشنده و مدیریت محتوای سازمانی** است، طراحی شده با **Clean Architecture + DDD Pragmatic + Repository + Unit of Work** و آماده توسعه Large Scale.
+**Solution Name:** ZaavoshPlatform
+
+## Projects
+- ZaavApp.Api
+- ZaavApp.Portal (Vue/Nuxt)
+- ZaavApp.Admin (Blazor or MVC)
 
 ---
 

@@ -1,64 +1,46 @@
 ```
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Dd]epends/
-[Mm]erge/[Dd]ebug/
-[Mm]erge/[Rr]elease/
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+dist/
+build/
+target/
+.gradle/
 
-# Visual Studio files
-*.obj
-*.iobj
-*.pch
-*.pdb
-*.ipdb
-*.ilk
-*.iobj
-*.tlog
-*.metagen
-*.wrn
-*.xml.bin
-*.cache
-*.vcxproj.user
-*.sln.docstates
-*.userosscache
-*.slnx
-*.vc.db
-*.vc.suo
-
-# Visual Studio Code files
+# Editor/IDE files
 .vscode/
-
-# Output directory
-bin/
-obj/
-
-# NuGet packages
-packages/
-
-# .NET Core
-*.runtimeconfig.dev.json
-*.runtimeconfig.json
-*.deps.json
-*.lock.json
-
-# Temporary files
+.idea/
+*.swp
+*.swo
 *.tmp
-*.temp
-*.log
 
-# Environment
+# System files
+.DS_Store
+Thumbs.db
 .env
 .env.local
 *.env.*
 
-# OS generated files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Icon?
+# Logs
+*.log
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+*.out
 ```
