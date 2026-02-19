@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ZaavoshPlatform/">
+    <Project Path="ZaavoshPlatform/ZaavApp.Api/ZaavApp.Api.csproj" />
+    <Project Path="ZaavoshPlatform/ZaavApp.Application/ZaavApp.Application.csproj" />
+    <Project Path="ZaavoshPlatform/ZaavApp.Domain/ZaavApp.Domain.csproj" />
+    <Project Path="ZaavoshPlatform/ZaavApp.Infrastructure/ZaavApp.Infrastructure.csproj" />
+  </Folder>
+</Solution>
